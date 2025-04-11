@@ -29,6 +29,8 @@ public class Byte : MonoBehaviour
             else
             {
                 bits[i].state = false; 
+
+
             }
         }
     }
